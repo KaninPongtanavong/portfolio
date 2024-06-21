@@ -5,14 +5,6 @@ Bachelor of Science, Applied Mathematics, 2023
 
 ## Project
 * **Applied Mathematics Project:** Stock Closing Price Prediction using random forest model and LSTM model.
-[View](https://www.canva.com/design/DAFTWS9J3lQ/FG4Wtcdn2exG4wvIXCwz-g/edit?utm_content=DAFTWS9J3lQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-![1719000162642](https://github.com/KaninPongtanavong/portfolio/assets/170894868/778680a1-0348-4df4-b87d-a8f22632bb03)
+[![Alt text for broken image link](assets/1719000162642.jpg)](https://www.canva.com/design/DAFTWS9J3lQ/FG4Wtcdn2exG4wvIXCwz-g/edit?utm_content=DAFTWS9J3lQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-[![Alt text for broken image link](assets/logo.png)](https://example.com)
-
-
-Developed a predictive model using random forest and LSTM techniques to
-forecast stock closing prices.
-Utilized Python programming language and relevant libraries for data preprocessing,
-model training, and evaluation.
-Presented findings and insights to peers and faculty members.
+  Developed predictive models to forecast the closing prices of 10 stocks across various industries (telecommunications, banking, mass transportation, insurance, and   energy) using random forest and long short-term memory (LSTM) techniques. The dataset included daily open, close, high, and low prices from June 1, 2019, to June     27, 2022. This project was part of my B.S. in Applied Mathematics program and aimed to compare the performance of both models in predicting stock prices. 
