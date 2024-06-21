@@ -8,6 +8,7 @@ Bachelor of Science, Applied Mathematics, 2023
   
 [![Alt text for broken image link](assets/NewYorkAirbnbLandscape.jpg)](https://public.tableau.com/views/Project_17019951499970/NewYorkAirbnbLandscape?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
+This project focuses on using data visualization techniques to explore Airbnb listings in New York City. Created a Tableau storyboard to uncover pricing trends and guest preferences, providing actionable insights using Airbnb listing data from the last 12 months leading up to September 5, 2023, with over 30,000 listings. The analysis aimed to gain insights into factors influencing property prices and listing success, covering details about hosts, property types, prices, and guest reviews. The findings were presented clearly and engagingly to demonstrate data storytelling skills.
 
 * **Applied Mathematics Project:** Stock Closing Price Prediction using random forest model and LSTM model
   
