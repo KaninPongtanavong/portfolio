@@ -6,7 +6,7 @@ Bachelor of Science, Applied Mathematics, 2023
 ## Project
 * **Google Data Analytics Capstone:** Cyclistic Bike-Share Analysis
 
-  [![image link](assets/NewYorkAirbnbLandscape.jpg)](https://public.tableau.com/views/Project_17019951499970/NewYorkAirbnbLandscape?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+  [![image link](assets/Dashboard.png)](https://public.tableau.com/views/CyclisticBike-ShareAnalysisGoogleDataAnalyticsProject/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 
 
