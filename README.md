@@ -25,3 +25,20 @@ Bachelor of Science, Applied Mathematics, 2023
   
   Developed predictive models to forecast the closing prices of 10 stocks across various industries (telecommunications, banking, mass transportation, insurance, and energy) using random forest and long short-term memory (LSTM) techniques. The dataset included daily open, close, high, and low prices from June 1, 2019, to June 27, 2022. The objective of this study was to predict stock closing prices and compare the performance of both models, along with examining the next day's stock closing price predictions by the best-performing model. This project was part of my B.S. in Applied Mathematics program.
 
+## Publication
+Pongtanavong, K., & Kaewbanjak, N. (in press). Comparative Analysis of Long Short-Term Memory and Random Forest Models for GULF Stock Closing Price Prediction.
+
+## Certificate
+* Google Data Analytics Professional Certificate, Google (2024)
+* Data Modeling in Power BI, Microsoft (2024)
+* Tableau Desktop Specialist, Tableau (2024)
+* Microsoft Azure SQL, Microsoft (2024)
+* Extract, Transform and Load Data in Power BI, Microsoft (2024)
+* Explore Core Data Concepts in Microsoft Azure, Microsoft (2024)
+* Harnessing the Power of Data with Power BI, Microsoft (2024)
+* Data Visualization with Tableau Specialization, University of California, Davis (2024)
+* Preparing Data for Analysis with Microsoft Excel, Microsoft (2023)
+* SQL for Data Science, University of California, Davis (2023)
+* Microsoft Certified: Azure AI Fundamentals, Microsoft (2023)
+* AI on Cloud, Asian Institute of Technology (2023)
+* Risk Management, Chulalongkorn University (2022)
