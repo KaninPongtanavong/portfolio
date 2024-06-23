@@ -28,7 +28,7 @@ Bachelor of Science, Applied Mathematics, 2023
 ## Publication
 Pongtanavong, K., & Kaewbanjak, N. (in press). Comparative Analysis of Long Short-Term Memory and Random Forest Models for GULF Stock Closing Price Prediction.
 
-## Certificate
+## Certification
 * Google Data Analytics Professional Certificate, Google (2024)
 * Data Modeling in Power BI, Microsoft (2024)
 * Tableau Desktop Specialist, Tableau (2024)
