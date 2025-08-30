@@ -1,4 +1,4 @@
-Master’s in Data Science student with a background in Applied Mathematics with a strong foundation in data analytics and predictive modeling. Co-authored a peer-reviewed research article in machine learning and certified as a Tableau Desktop Specialist. Passionate about leveraging data to uncover insights, solve real-world problems, and support data-driven decision-making.
+An Applied Mathematics graduate with a strong foundation in data analytics and predictive modeling. Co-authored a peer-reviewed research article on machine learning for time series forecasting and certified as a Tableau Desktop Specialist. Currently pursuing a Master of Science in Data Science at Burapha University.
 
 ## Education
 * Master of Science, Data Science, Burapha University, 2025-Present
