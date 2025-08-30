@@ -26,7 +26,7 @@ Bachelor of Science, Applied Mathematics, 2023
   Developed predictive models to forecast the closing prices of 10 stocks across various industries (telecommunications, banking, mass transportation, insurance, and energy) using random forest and long short-term memory (LSTM) techniques. The dataset included daily open, close, high, and low prices from June 1, 2019, to June 27, 2022. The objective of this study was to predict stock closing prices and compare the performance of both models, along with examining the next day's stock closing price predictions by the best-performing model. This project was part of my B.S. in Applied Mathematics program.
 
 ## Publication
-Pongtanavong, K., & Kaewbanjak, N. (in press). Comparative Analysis of Long Short-Term Memory and Random Forest Models for GULF Stock Closing Price Prediction.
+Pongtanavong, K., & Kaewbanjak, N. (2024). [_Comparative Analysis of Long Short-Term Memory and Random Forest Models for GULF Stock Closing Price Prediction_](https://ph01.tci-thaijo.org/index.php/JASCI/article/view/253143), *Journal of Applied Science and Emerging Technology (JASET)*, Vol. 23, No. 2, e253143. doi:10.14416/JASET.KMUTNB.2024.02.006
 
 ## Certification
 * Google Data Analytics Professional Certificate, Google (2024)
