@@ -1,7 +1,8 @@
 Master’s in Data Science student with a background in Applied Mathematics with a strong foundation in data analytics and predictive modeling. Co-authored a peer-reviewed research article in machine learning and certified as a Tableau Desktop Specialist. Passionate about leveraging data to uncover insights, solve real-world problems, and support data-driven decision-making.
 
 ## Education
-Bachelor of Science, Applied Mathematics, 2023
+* Master of Science, Data Science, Burapha University, 2025-Present
+* Bachelor of Science, Applied Mathematics, Kasetsart University, 2023
 
 ## Project
 * **Google Data Analytics Capstone:** Cyclistic Bike-Share Analysis
