@@ -31,6 +31,7 @@ test
 Pongtanavong, K., & Kaewbanjak, N. (2024). [_Comparative Analysis of Long Short-Term Memory and Random Forest Models for GULF Stock Closing Price Prediction_](https://ph01.tci-thaijo.org/index.php/JASCI/article/view/253143), *Journal of Applied Science and Emerging Technology (JASET)*, Vol. 23, No. 2, e253143. doi:10.14416/JASET.KMUTNB.2024.02.006
 
 ## Certification
+test123
 * Data Analysis and Visualization with Power BI, Microsoft (2024)
 * Google Data Analytics Professional Certificate, Google (2024)
 * Data Modeling in Power BI, Microsoft (2024)
