@@ -1,7 +1,6 @@
 Master’s in Data Science student with a background in Applied Mathematics with a strong foundation in data analytics and predictive modeling. Co-authored a peer-reviewed research article in machine learning and certified as a Tableau Desktop Specialist. Passionate about leveraging data to uncover insights, solve real-world problems, and support data-driven decision-making.
 
 ## Education
-test
 * Master of Science, Data Science, Burapha University, 2025-Present
 * Bachelor of Science, Applied Mathematics, Kasetsart University, 2023
 
@@ -31,7 +30,6 @@ test
 Pongtanavong, K., & Kaewbanjak, N. (2024). [_Comparative Analysis of Long Short-Term Memory and Random Forest Models for GULF Stock Closing Price Prediction_](https://ph01.tci-thaijo.org/index.php/JASCI/article/view/253143), *Journal of Applied Science and Emerging Technology (JASET)*, Vol. 23, No. 2, e253143. doi:10.14416/JASET.KMUTNB.2024.02.006
 
 ## Certification
-test123
 * Data Analysis and Visualization with Power BI, Microsoft (2024)
 * Google Data Analytics Professional Certificate, Google (2024)
 * Data Modeling in Power BI, Microsoft (2024)
